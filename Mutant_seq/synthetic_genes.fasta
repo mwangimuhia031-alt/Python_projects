@@ -1,0 +1,6 @@
+>Gene_01_WildType | Target protein for stability screening
+ATGGCAACCGTATGA
+>Gene_02_SilentCarrier | Expected to mimic baseline translation structure
+ATGGCAACCGTATGA
+>Gene_03_TruncatedMutant | Potential premature termination risk
+ATGGCATAGCGTATGA
